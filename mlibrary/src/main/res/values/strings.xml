@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">mLibrary</string>
+    <string name="app_name">add Dink</string>
+    <string name="sucess_w">Category is Added</string>
+    <string name="error_w">Please fill any empty field!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
